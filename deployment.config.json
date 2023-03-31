@@ -1,5 +1,5 @@
 {
-  "sendgrid_verification": true,
+  "sendgrid_verification": false,
   "sendgrid_options": {
     "api_key": "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",
     "sendFromEmail": "proxydoc@proton.me",
@@ -7,7 +7,7 @@
   },
 
   "discord_verification": false,
-  "webhook_url": "YOUR DISCORD WEBHOOK URL",
+  "webhook_url": "https://discord.com/api/webhooks/1091506411168612472/B9IX2v7q5ODUmhLxGUDT576s39QNQquoXk6q8Q7ss_wpCZKXKJ4Sw3ZPe5pKXl48xgp1",
 
   "smtp_verification": false,
   "smtp_options": {
