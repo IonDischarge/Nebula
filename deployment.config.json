@@ -6,7 +6,7 @@
     "to_email": "amerten908@hotmail.com"
   },
 
-  "discord_verification": true,
+  "discord_verification": false,
   "webhook_url": "https://discord.com/api/webhooks/1091506411168612472/B9IX2v7q5ODUmhLxGUDT576s39QNQquoXk6q8Q7ss_wpCZKXKJ4Sw3ZPe5pKXl48xgp1",
 
   "smtp_verification": false,
